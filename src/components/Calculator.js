@@ -55,9 +55,9 @@ class Calculator extends React.Component {
           <button
             className="calculations"
             type="submit"
-            onClick={() => this.handlerclick('×')}
+            onClick={() => this.handlerclick('x')}
           >
-            ×
+            x
           </button>
           <button type="submit" onClick={() => this.handlerclick('4')}>
             4

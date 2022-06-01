@@ -32,13 +32,8 @@ button {
 .previous-operand {
   grid-column: 1/-1;
   grid-row: 1/-8;
-}
-
-.value {
-  padding: 20px;
-  background-color: gray;
-  width: 384px;
   font-size: 30px;
   border: 3px solid;
   outline: 0;
+  background-color: gray;
 }

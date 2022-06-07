@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&family=Roboto:ital,wght@1,300&display=swap');
+
 * {
   box-sizing: border-box;
   padding: 0;
@@ -6,6 +8,7 @@
 
 body {
   background: linear-gradient(to right, rgba(255, 115, 0, 0.53), rgba(128, 128, 128, 0.554));
+  font-family: 'Comfortaa', cursive;
 }
 
 button {
@@ -17,8 +20,9 @@ button {
   display: grid;
   margin-top: 2rem;
   grid-template-columns: repeat(4, 6rem);
-  grid-template-rows: minmax(7rem, auto) repeat(5, 6rem);
+  grid-template-rows: minmax(7rem, auto) repeat(4, 6rem);
   margin-left: 100px;
+  margin-right: 30px;
 }
 
 .calculations {
@@ -38,8 +42,72 @@ button {
   background-color: gray;
 }
 
-#root {
+.title {
+  font-size: 40px;
+  margin-left: 18px;
+}
+
+.nav-bar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  margin: 10px;
+}
+
+.list-items {
+  margin-right: -6px;
   display: flex;
   justify-content: center;
-  align-items: center;
+  list-style: none;
+  gap: 13px;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+ul.list-items li {
+  border-right: 2px solid;
+  padding-right: 20px;
+  height: 20px;
+  cursor: pointer;
+}
+
+.link {
+  text-decoration: none;
+  color: orangered;
+}
+
+.link:hover {
+  color: #444;
+}
+
+.home {
+  margin: 30px;
+}
+
+.first-par {
+  margin: 20px;
+  font-size: 20px;
+}
+
+.second-par {
+  margin: 20px;
+  font-size: 20px;
+}
+
+.quote {
+  font-size: 30px;
+  text-align: center;
+  padding: 80px;
+}
+
+.calculator {
+  display: flex;
+  justify-content: space-around;
+}
+
+.Title {
+  font-size: 30px;
+  margin: 20px;
+  text-align: center;
 }

@@ -1,4 +1,3 @@
-
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # Math-Magicians
@@ -7,14 +6,12 @@
 
 > This is the first project of the Math Magicians application. I set up the environment and tools needed to develop a React application. In the following projects, I will develop the actual application.
 
-
 ## Built With
+
 - GitFlow
 - React
 
-
 ## Getting Started
-
 
 To get a local copy up and running follow these simple example steps.
 
@@ -32,7 +29,12 @@ To get a local copy up and running follow these simple example steps.
 - Go to the repository folder in your command prompt cd Math-Magicians.
 - Run npm start.
 
+## Live Demo
 
+you can check live demo on :
+
+- netlify: [here](https://creative-dragon-1da8c9.netlify.app)
+- heroku: [here](https://ilham-project.herokuapp.com/)
 
 ## Show your support
 
@@ -40,13 +42,14 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
--  GitHub : [@bouaik ilham](https://github.com/BouaikIlham)
+- GitHub : [@bouaik ilham](https://github.com/BouaikIlham)
 - Twitter: [@IlhamBouaik](https://twitter.com/IlhamBouaik)
 - LinkedIn: [@BouaikIlham](https://www.linkedin.com/in/bouaik-ilham-478478230/)
 
 ## Contributing
 
 Contributions, issues, and feature requests are welcome!
+
 ## 📝 License
 
 This project is [MIT](./MIT.md) licensed.

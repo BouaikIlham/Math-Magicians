@@ -33,7 +33,7 @@ To get a local copy up and running follow these simple example steps.
 
 you can check live demo on :
 
-- netlify: [here](https://creative-dragon-1da8c9.netlify.app)
+- netlify: [here](https://heartfelt-kheer-5d15b1.netlify.app/)
 - heroku: [here](https://ilham-project.herokuapp.com/)
 
 ## Show your support
